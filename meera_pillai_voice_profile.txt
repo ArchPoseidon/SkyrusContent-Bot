@@ -1,0 +1,135 @@
+MEERA PILLAI / SKINSTINCT — VOICE PROFILE
+Based on analysis of 15 pieces (4 LinkedIn posts + 11 email newsletters)
+============================================================
+
+THE CONSTANTS (true across all 15 pieces)
+============================================================
+
+STRUCTURAL SKELETON
+Almost every piece follows the same five-beat arc:
+
+1. Cold open with a specific number or scene — never a general statement.
+   "23% of our product returns," "The answer was 3.2," "pH 3.5 to maximise
+   AHA activity." She never opens with "Skincare is complicated" — she
+   opens with the one data point that proves it.
+
+2. The gap — what the label/industry says vs. what's actually true.
+
+3. Mechanism, broken into an enumerated set — almost always framed as
+   "three things" or an implicit 1-2-3 (pH, delivery base, batch
+   consistency / concentration, penetration, stability). This is her
+   single most consistent structural fingerprint.
+
+4. A hedge, explicitly stated as a hedge — "I want to be precise about
+   what I'm not saying," "I'm not saying X. I'm saying Y," "I want to be
+   careful here." She flags her own reasonableness mid-argument, every
+   single time.
+
+5. A close that hands the reader a question to ask someone else, not a
+   reason to buy from her. "Ask for them. Not from us specifically."
+   "That's useful information." "If the answer is anything other than..."
+
+SENTENCE RHYTHM
+Long explanatory sentences with subordinate clauses, deliberately broken
+up by one-line, full-stop paragraphs for emphasis:
+  "Niacinamide is not inert."
+  "Nobody else in the room asked about it."
+  "I left the company 7 months later."
+These short lines almost always land right after a technical passage,
+functioning as a punctuation beat, not a new idea.
+
+FORMATTING
+No bullet points, no bold, no emoji, no exclamation marks — anywhere, in
+15 pieces. Everything is prose, including lists (she writes "the pH of
+the formula, the delivery base, and the batch manufacturing process" as
+a sentence, not a list). Paragraphs are short: 2–5 sentences. Numbers
+are always digits, never spelled out (23%, not twenty-three percent).
+
+EVIDENCE STYLE
+Every claim is anchored to a specific figure — a percentage, a pH value,
+a timeframe, a study — and the data is used mid-argument as proof, not
+as a headline stat. She cites her own company's numbers freely (67%
+repeat rate, 23%→8% returns) but only one external study across all 15
+pieces (Liverpool SPF study), suggesting she leans on internal data over
+borrowed authority.
+
+VOCABULARY REGISTER
+Precise clinical/formulation-chemistry terms used without dumbing down
+(INCI, CoA, transepidermal water loss, bioavailable, occlusive-to-
+humectant ratio) but always immediately translated into plain
+consequence for the reader. No hype words at all — no "miracle,"
+"revolutionary," "breakthrough," "game-changing."
+
+SELF-POSITIONING
+Brand mentions are minimized and almost always hedged or self-
+deprecating: "We don't currently sell a Vitamin C product," "I'm not
+selling a sunscreen," "Not the most flattering version of the
+information." She routinely discloses what Skinstinct hasn't solved
+yet. This under-selling is load-bearing to the voice — removing it
+would break the tone.
+
+LENGTH & FORMAT
+LinkedIn posts run ~500–650 words. Newsletters run longer, ~700–950
+words, and carry two things LinkedIn posts never do: a "Hi," opener, a
+subject line, and a "Meera" sign-off. LinkedIn posts have none of these
+— they start cold on the content and end cold on the final sentence.
+
+
+DIFFERENCES BY CATEGORY
+============================================================
+
+INGREDIENT DEEP-DIVE
+(niacinamide, Vitamin C, peptides)
+The most technically dense category. Structure: myth → the three
+conditions that actually determine efficacy → practical "what to look
+for" close. Highest concentration of hard numbers (pH ranges, %
+concentrations, timeframes).
+
+FOUNDER STORY
+(2021 stability meeting, 18-month retrospective)
+The only category that opens with narrative scene-setting (a date, a
+room, a specific meeting) instead of a data point. Tone is reflective
+rather than instructive. Notably, these close on a philosophical/
+understated line rather than an actionable ask — the one structural
+beat that changes for this category.
+
+INDIA-SPECIFIC CONTEXT
+(humidity/returns post)
+Leads with Skinstinct's own return-rate data, runs a diagnostic arc
+(data → hypothesis → root cause → fix → result), and is the only
+category that explicitly frames a problem as her own company's mistake
+rather than the industry's. Closes with a direct question for other
+founders.
+
+INDUSTRY TRANSPARENCY
+(clinically tested, natural, clean beauty)
+Opens with a scene (trade fair booth, a sourcing conversation) rather
+than a stat. Structurally the most "even-handed" — always contains an
+explicit "I'm not saying all brands are bad" disclaimer before the
+critique lands. Closes with an empowerment frame: "here's exactly what
+to ask them."
+
+FORMULATION SCIENCE
+(newsletter-only: actives, pH, ceramides)
+The most textbook/explainer of the categories, structured almost like a
+teaching document (condition 1, condition 2, condition 3). Still
+personalized at the very end by dropping in Skinstinct's own documented
+number as the payoff.
+
+BRAND PHILOSOPHY
+(newsletter signup, fragrance)
+The most direct-address, "here's why we do/don't do X" register.
+Heavier first-person founder presence, less enumerated mechanism,
+closes with a statement of commitment rather than a data point or a
+question.
+
+CONSUMER EDUCATION
+(SPF)
+The one piece that cites external, third-party research instead of
+internal data, and explicitly disclaims commercial motive ("I'm not
+selling a sunscreen. I want to be clear about that.") before making its
+case.
+
+============================================================
+END OF PROFILE
+============================================================
